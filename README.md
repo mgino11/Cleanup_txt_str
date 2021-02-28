@@ -1,5 +1,5 @@
-# Cleanup_txt_str
-## Data in Text File 
+# Cleanup a Txt file into a CSV
+### Data in Text File 
 
 The chess tournament text file is written in a format that is not legible in R. This file needs to be re-structured in order to find the average pre-tournament score.
 
@@ -13,3 +13,6 @@ GARY HUA |	ON |	6.0 |	1794 |	1605 |
 ## After working with Data
 ## Final Result 
 ![Chess_final_resutl](https://user-images.githubusercontent.com/76123653/109429471-dbec0e80-79c9-11eb-8245-c8587d169114.PNG)
+
+## CSV final result
+![csv final result](https://user-images.githubusercontent.com/76123653/109429569-50bf4880-79ca-11eb-8806-34e56ab7dcf2.PNG)
