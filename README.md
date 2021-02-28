@@ -10,3 +10,6 @@ GARY HUA |	ON |	6.0 |	1794 |	1605 |
 
 ![Text File image](https://user-images.githubusercontent.com/76123653/109429388-7dbf2b80-79c9-11eb-93bf-39b13b5b90a0.PNG)
 
+## After working with Data
+## Final Result 
+![Chess_final_resutl](https://user-images.githubusercontent.com/76123653/109429471-dbec0e80-79c9-11eb-8245-c8587d169114.PNG)
