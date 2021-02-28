@@ -7,3 +7,6 @@ The chess tournament text file is written in a format that is not legible in R. 
 |-------------|--------------|----------------------|-------------------|-------------------------------------|
 GARY HUA |	ON |	6.0 |	1794 |	1605 |
 -------------------------------------------
+
+![Text File image](https://user-images.githubusercontent.com/76123653/109429388-7dbf2b80-79c9-11eb-93bf-39b13b5b90a0.PNG)
+
